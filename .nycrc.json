@@ -1,0 +1,6 @@
+{
+  "check-coverage": true,
+  "lines": 95,
+  "include": ["src/**/*.js"],
+  "exclude": ["src/**/*.spec.js", "migrations/**/*", "seeds/**/*"]
+}
